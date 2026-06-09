@@ -1,3 +1,6 @@
+# pip install -q -U google-genai
+# pip install python-dotenv
+
 from google import genai
 from dotenv import load_dotenv
 
